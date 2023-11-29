@@ -1,0 +1,46 @@
+:root {
+    --green: #00FF00;
+    --white: #FFFFFF;
+    --black: #000000;
+  }
+body {
+    background: var(--bg);
+    color: var(--fontColor);
+    font-family: "Gill Sans", sans-serif; 
+}
+
+h1{position: relative;
+  left: 450px;
+}
+
+ul {
+  position: relative;
+  top: 50px;
+  left: 200px;
+  font-family: helvetica;
+}
+
+li {
+    list-style: circle;
+  }
+  
+  .list {
+    list-style: square;
+  }
+  
+  #msg {
+    font-family: monospace;
+  }
+
+  .light-theme {
+    --bg: var(--white);
+    --fontColor: var(--black);
+  } 
+  dialog{
+    border: none;
+    box-shadow: 0 2px 6px #ccc;
+    border-radius: 10px;
+  }
+  dialog::backdrop {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
