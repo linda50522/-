@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>練習</title>
-  <link rel="stylesheet" href="https://github.com/linda50522/-.git/網頁/a">
+  <link rel="stylesheet" href="https://github.com/linda50522/-/網頁/a.git">
 </head>
 <body class="light-theme">
   <div>
@@ -27,7 +27,7 @@
         <button id="close">關閉</button>
     </dialog>
   </div>
-    <script src="https://github.com/linda50522/-.git/網頁/js"></script>
+    <script src="https://github.com/linda50522/-/網頁/js.git"></script>
     <noscript>You need to enable JavaScript to view the full site.</noscript>
 </body>
 </html>
